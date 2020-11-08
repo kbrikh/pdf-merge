@@ -1,0 +1,15 @@
+{
+  "name": "pdf-merge",
+  "version": "1.0.0",
+  "description": "Simple PDF merger using Pdf-lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["pdf", "pdf merge"],
+  "author": "Kamel BRIKH <contact@seylog.com",
+  "license": "MIT",
+  "dependencies": {
+    "pdf-lib": "^1.11.2"
+  }
+}
